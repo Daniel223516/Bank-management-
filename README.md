@@ -97,4 +97,4 @@ Fill in the values from your Appwrite, Plaid, and Dwolla dashboards. **Never com
 
 ##  Disclaimer
 
-This is a learning project running on sandbox APIs. It does not move real money and should not be used with real banking credentials.
+This is a learning project running on sandbox APIs. I do not recommend using it with real banking credentials.
