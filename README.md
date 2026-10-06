@@ -7,17 +7,16 @@ A Full-stack banking web app built with **Next.js 14**. It lets users connect mu
 
 ---
 
-## Screenshots
+### Project Preview
 
-<!-- Replace the paths below with your own images (e.g. put them in a /screenshots folder) -->
-
-| Dashboard | 
-| --- | --- |
-| ![Screenshot 1](images/Screenshot 2026-10-06 180933.png) |
+| Dashboard |
+| :---: |
+| ![Dashboard](images/Screenshot%202026-10-06%20180933.png) |
 
 | Payment Transfer | Log In |
-| --- | --- |
-| ![Screenshot 2](images/Screenshot 2026-10-06 180806.png) | ![Screenshot 3](images/Screenshot 2026-10-06 180901.png) |
+| :---: | :---: |
+| ![Payment Transfer](images/Screenshot%202026-10-06%20180806.png) | ![Log In](images/Screenshot%202026-10-06%20180901.png) |
+
 
 ##  Features
 
