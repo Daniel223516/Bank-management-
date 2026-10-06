@@ -7,19 +7,19 @@ A Full-stack banking web app built with **Next.js 14**. It lets users connect mu
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <!-- Replace the paths below with your own images (e.g. put them in a /screenshots folder) -->
 
-| Dashboard | My Banks |
+| Dashboard | 
 | --- | --- |
-| ![Dashboard](./screenshots/dashboard.png) | ![My Banks](./screenshots/my-banks.png) |
+| ![Screenshot 1](images/Screenshot 2026-10-06 180933.png) |
 
-| Transaction History | Payment Transfer |
+| Payment Transfer | Log In |
 | --- | --- |
-| ![Transaction History](./screenshots/transactions.png) | ![Payment Transfer](./screenshots/transfer.png) |
+| ![Screenshot 2](images/Screenshot 2026-10-06 180806.png) | ![Screenshot 3](images/Screenshot 2026-10-06 180901.png) |
 
-## ✨ Features
+##  Features
 
 - **Authentication** — Secure sign-up and sign-in with server-side sessions (Appwrite)
 - **Connect banks** — Link real bank accounts through Plaid
@@ -29,7 +29,7 @@ A Full-stack banking web app built with **Next.js 14**. It lets users connect mu
 - **Payment Transfers** — Send funds to another user on the platform via Dwolla
 - **Responsive design** — Works on desktop, tablet, and mobile
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Area | Tools |
 | --- | --- |
